@@ -1,2 +1,2 @@
-# calculator-shiomi
-this project i worked about calculator shiomi phone 
+# UI-twitter
+This project i use constraintlayout and focuse just UI
